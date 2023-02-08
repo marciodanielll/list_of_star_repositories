@@ -7,7 +7,7 @@ Se você deseja contribuir, abra um pull resquet.
 1. [Backend -BR](https://github.com/backend-br/vagas)
 2. [Frontend -BR](https://github.com/frontendbr/vagas)
 
-## Eessenciais
+## Essenciais
 1. [Awesome](https://github.com/sindresorhus/awesome) - Incrível, quase tudo em um único lugar; 
 2. [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap para **DEVs**;
 3. [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook) - Guia de entrevista técnica;
