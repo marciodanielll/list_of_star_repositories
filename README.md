@@ -1,4 +1,4 @@
-<div style="background-color: #282a36; color: #f8f8f2;">
+<div style="background-color: #282a36; color: #f8f8f2">
 
 <header>
   <h1>Minha lista de repositório favoritos (stars) no Github! 🐱‍💻</h1>
