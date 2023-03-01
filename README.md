@@ -1,3 +1,5 @@
+<div style="background-color: #282a36; color: #f8f8f2;">
+
 <header>
   <h1>Minha lista de repositório favoritos (stars) no Github! 🐱‍💻</h1>
   <nav>
@@ -11,7 +13,7 @@
 
 <main>
   <section id="vagas-de-trabalho">
-    <h2>Vagas de trabalho</h2>
+    <h2 style="color: #50fa7b" >Vagas de trabalho</h2>
     <ol>
       <li><a href="https://github.com/backend-br/vagas">Backend -BR</a></li>
       <li><a href="https://github.com/frontendbr/vagas">Frontend -BR</a></li>
@@ -19,7 +21,7 @@
   </section>
 
   <section id="essenciais">
-    <h2>Essenciais</h2>
+    <h2 style="color: #50fa7b">Essenciais</h2>
     <ol>
       <li><a href="https://github.com/sindresorhus/awesome">Awesome</a> - Incrível, quase tudo em um único lugar;</li>
       <li><a href="https://github.com/kamranahmedse/developer-roadmap">Developer roadmap</a> - Roadmap para
@@ -33,7 +35,7 @@
   </section>
 
   <section id="javascript">
-    <h2>Javascript</h2>
+    <h2 style="color: #50fa7b">Javascript</h2>
     <details>
       <summary><strong>Clique aqui para ver a lista.</strong></summary>
       <ol>
@@ -101,3 +103,5 @@
   <p>Esse conteúdo tem o objetivo de apoiar a comunidade DEV na busca por conhecimento e oportunidades.</p>
   <p>Se você deseja contribuir, abra um pull request.</p>
 </footer>
+
+</div>
